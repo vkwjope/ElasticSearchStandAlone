@@ -1,5 +1,7 @@
 package com.example.elasticsearch.model;
 
+import javax.annotation.Generated;
+
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;
 
